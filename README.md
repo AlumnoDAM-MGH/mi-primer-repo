@@ -4,4 +4,5 @@ Este es nuestro primer repositorio en Github, una plataforma de desarrollo colab
 
 ![Logo de McGraw Hill y Octocat](imagenes/mgh_github.png)
 
+Probando a realizar cambios en el repositorio desde VSCode.
 
